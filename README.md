@@ -1,6 +1,9 @@
 # DHTMLX React Gantt with Zustand State Management
  
 This starter demonstrates how to integrate **DHTMLX React Gantt** with **Zustand** as the client-side store for task and link data. Built with React 19+, TypeScript, and Vite, with a Material UI toolbar for zoom and undo/redo controls.
+
+**Related tutorial**:
+[https://docs.dhtmlx.com/gantt/integrations/react/state/zustand/](https://docs.dhtmlx.com/gantt/integrations/react/state/zustand/)
  
 ## The Series
  
@@ -88,7 +91,7 @@ This demo is Part 1 of a learning series — it is intentionally minimal and in-
 
 ## Related Resources
  
-- [Zustand integration guide (official tutorial)](https://docs.dhtmlx.com/gantt/integrations/react/state/zustand/)
+- [Zustand integration guide (tutorial on the official blog)](https://dhtmlx.com/blog/using-zustand-state-management-apps-dhtmlx-react-gantt-scheduler/)
 - [DHTMLX React Gantt product page](https://dhtmlx.com/docs/products/dhtmlxGantt-for-React/) 
 - [DHTMLX Gantt product page](https://dhtmlx.com/docs/products/dhtmlxGantt/)
 - [DHTMLX Gantt documentation](https://docs.dhtmlx.com/gantt/)
@@ -101,7 +104,9 @@ This demo is Part 1 of a learning series — it is intentionally minimal and in-
 
 ## License
  
-The source code in this repository is released under the **MIT License**.
+The source code in this repo is released under the **MIT License**.
+
+**DHTMLX React Gantt** is a commercial library - use under a valid commercial license or evaluation agreement.
  
 **Commercial License**
 Required for proprietary or commercial applications. Includes access to PRO features, dedicated technical support, and long-term maintenance.
