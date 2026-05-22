@@ -17,7 +17,7 @@ This repo is the first step in a progression from local state to real-time multi
  
 Start here to understand the core Zustand integration pattern before adding a backend in steps 2 and 3.
  
-## What is This
+## What is DHTMLX React Gantt with Zustand Starter
  
 This demo shows how to use Zustand as the single source of truth for DHTMLX React Gantt task and link data. All mutations — creating, updating, and deleting tasks and links — are handled through Zustand store actions rather than directly modifying Gantt's internal state. The Gantt component reads from the store and re-renders reactively when the store changes.
  
@@ -98,7 +98,6 @@ This demo is Part 1 of a learning series — it is intentionally minimal and in-
 - [React Gantt integration guide](https://docs.dhtmlx.com/gantt/web__react.html)
 - [Part 2: TanStack Query starter](https://github.com/dhtmlx/react-gantt-tanstack-query-starter)
 - [Part 3: Supabase real-time starter](https://github.com/dhtmlx/react-gantt-tanstack-supabase-starter)
-- [DHTMLX blog](https://dhtmlx.com/blog/)
 - [Community forum](https://forum.dhtmlx.com/)
 - [Report an issue](https://github.com/DHTMLX/react-gantt-zustand-starter/issues)
 
@@ -110,7 +109,7 @@ The source code in this repo is released under the **MIT License**.
  
 **Commercial License**
 Required for proprietary or commercial applications. Includes access to PRO features, dedicated technical support, and long-term maintenance.
-[Learn more →](https://dhtmlx.com/docs/products/dhtmlxGantt/#licensing)
+[Learn more →](https://dhtmlx.com/docs/products/dhtmlxGantt-for-React/#licensing)
  
 **Try before you buy**
 A free evaluation of DHTMLX React Gantt is available — no credit card required.
